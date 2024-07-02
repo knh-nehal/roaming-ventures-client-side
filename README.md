@@ -2,7 +2,7 @@
 
 #### Roaming Ventures is a tourism management website where users can know about tourism spots in Southeast Asian countries.
 
-### Features of the Website
+## Features of the Website
 
 - Light and Dark Theme available
 - It has some protected route so that only a verified user can add Tour Spots
@@ -14,7 +14,7 @@
 - JavaScript
 - Tailwind CSS
 
-### To Run Locally
+## To Run Locally
 
 1. **Clone the repository:**
 
